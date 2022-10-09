@@ -1,6 +1,7 @@
 ## Hi, I’m Michael Rodríguez
 ### 👩‍💻 Front-end developer ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) and helping at  [mockingbird.mx](https://www.mockingbird.mx) 
 ### ✨ Magical girl in training 📍 Aguascalientes, México
+<!-- Eduardo Michael Rodríguez Medina -->
 -------------
 - 👋 I’m a latin gender queer geek
 - 👩‍🎤 Pronouns: they/them/she/her
@@ -116,3 +117,4 @@
 #### More interests:
 🏳️‍🌈 🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭  🛸 🦄 💭 ⚔️ 
 
+<img alt="cooding girl" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="280px" />
