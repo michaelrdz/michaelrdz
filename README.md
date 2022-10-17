@@ -12,7 +12,7 @@
 
 #### Find me at:
 
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png)](# "linkedin.com/michaelrdz_me")
+[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png)](https://www.linkedin.com/in/michael-rdz/recent-activity/ "linkedin.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_twitter.png)](https://twitter.com/Michaelrdz_me "twitter.com/Michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_instagram.png)](https://www.instagram.com/michaelrdz_me/ "instagram.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_vsco.png)](https://vsco.co/michaelrdzme/ "vsco.co/michaelrdzme/")
@@ -115,6 +115,6 @@
 
 
 #### More things about me:
-🏳️‍🌈 🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭  🛸 🦄 💭 ⚔️ 
+🏳️‍🌈 🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️ 
 
 <img alt="cooding girl" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="280px" />
