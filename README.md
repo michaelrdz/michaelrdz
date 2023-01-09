@@ -115,6 +115,6 @@
 
 
 #### More things about me:
-🏳️‍🌈 🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️ 
+🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️ 
 
 <img alt="cooding girl" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="280px" />
