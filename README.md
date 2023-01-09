@@ -3,8 +3,8 @@
 ### ✨ Magical girl in training 📍 Aguascalientes, México
 <!-- Eduardo Michael Rodríguez Medina -->
 -------------
-- 👋 I’m a latin gender queer geek
-- 👩‍🎤 Pronouns: they/them/she/her
+<!-- - 👋 I’m a latin gender queer geek -->
+<!-- - 👩‍🎤 Pronouns: they/them/she/her -->
 - 👀 I’m interested in photography, literature, technology, anime/manga, comics, cartoons, movies, art, horror, cute stuff and more
 - 🌱 I’m currently learning Node.js, React, React Native and Python
 - 🎓 certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
