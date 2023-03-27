@@ -1,13 +1,14 @@
 ## Hi, I’m Michael Rodríguez
 ### 👩‍💻 Front-end developer ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) and helping at  [mockingbird.mx](https://www.mockingbird.mx) 
 ### ✨ Magical girl in training 📍 Aguascalientes, México
+<!--### ✨ Magical girl in training 📍 Aguascalientes, México-->
 <!-- Eduardo Michael Rodríguez Medina -->
 -------------
-<!-- - 👋 I’m a latin gender queer geek -->
-<!-- - 👩‍🎤 Pronouns: they/them/she/her -->
-- 👀 I’m interested in photography, literature, technology, anime/manga, comics, cartoons, movies, art, horror, cute stuff and more
-- 🌱 I’m currently learning Node.js, React, React Native and Python
-- 🎓 certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
+👋 I’m a latin queer geek
+<!--- 👩‍🎤 Pronouns: they/them/she/her -->
+- 👀 I’m interested in photography, traveling, technology, anime/manga, comic, cartoons, movies, art, horror, literature, cute stuff and more
+- 🌱 I’m currently learning .NET Core, Node.js and React Native
+- 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 - 📫 Reach out to me: michaelrdz.me@gmail.com
 
 #### Find me at:
@@ -115,6 +116,7 @@
 
 
 #### More things about me:
-🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️ 
+
+🇲🇽 🏳️‍🌈 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️
 
 <img alt="cooding girl" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="280px" />
