@@ -1,12 +1,12 @@
 ## Hi, I’m Michael Rodríguez
 ### 👩‍💻 Front-end developer ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) and helping at  [mockingbird.mx](https://www.mockingbird.mx) 
-### ✨ Magical girl in training 📍 Aguascalientes, México
+### 📍 Aguascalientes, México
 <!--### ✨ Magical girl in training 📍 Aguascalientes, México-->
 <!-- Eduardo Michael Rodríguez Medina -->
 -------------
-👋 I’m a latin queer geek
+👋 I’m a queer latin geek
 <!--- 👩‍🎤 Pronouns: they/them/she/her -->
-- 👀 I’m interested in photography, traveling, technology, anime/manga, comic, cartoons, movies, art, horror, literature, cute stuff and more
+- 👀 I’m interested in photography, traveling, technology, animation, comic, movies, art, horror, literature, cute stuff and more
 - 🌱 I’m currently learning .NET Core, Node.js and React Native
 - 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 - 📫 Reach out to me: michaelrdz.me@gmail.com
