@@ -7,8 +7,8 @@
 <!--👋 I’m a latin queer geek-->
 <!--- 👩‍🎤 Pronouns: they/them/she/her -->
 - 👀 I’m interested in photography, traveling, technology, movies, art, horror, literature, cute stuff and more
-- 🌱 I’m currently learning .NET Core, Node.js and React Native
 - 👩‍🎓 Studies: Universidad Tecnológica de Aguascalientes (UTA), 2017- 2022
+- 🌱 I’m currently learning .NET Core, Node.js and React Native
 - 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 - 📫 Reach out to me: michaelrdz.me@gmail.com
 
