@@ -14,11 +14,11 @@
 
 #### Find me at:
 
+[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png)](https://linktr.ee/michaelrdz "linkedin.com/in/michael-rdz/")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png)](https://www.linkedin.com/in/michael-rdz/recent-activity/ "linkedin.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_twitter.png)](https://twitter.com/Michaelrdz_me "twitter.com/Michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_facebook.png)](https://www.facebook.com/Michaelrdz.me/ "facebook.com/michaelrdz_me")
+[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_facebook2.png)](https://www.facebook.com/Michaelrdz.me/ "facebook.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_instagram.png)](https://www.instagram.com/michaelrdz_me/ "instagram.com/michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_vsco.png)](https://vsco.co/michaelrdzme/ "vsco.co/michaelrdzme/")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_pinterest.png)](https://www.pinterest.com.mx/michaelrdz_me/ "pinterest.com.mx/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_gitlab.png)](https://gitlab.com/michaelrdz.me "gitlab.com/michaelrdz.me")
 
