@@ -1,20 +1,20 @@
 ## Hi, I’m Michael Rodríguez
-### 👩‍💻 Front-end developer ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) and helping at  [mockingbird.mx](https://www.mockingbird.mx) 
-#### 📍 Aguascalientes, México
-<!--### ✨ Magical girl in training 📍 Aguascalientes, México-->
+### 👩‍💻 Front-end developer
+### ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) ✨ Helping at [mockingbird.mx](https://www.mockingbird.mx)
+#### 📍 Aguascalientes, Mexico
 <!-- Eduardo Michael Rodríguez Medina -->
 -------------
 <!--👋 I’m a latin queer geek-->
 <!--- 👩‍🎤 Pronouns: they/them/she/her -->
-- 👀 I’m interested in photography, traveling, technology, movies, art, horror, literature, cute stuff and more
-- 👩‍🎓 Studies: Universidad Tecnológica de Aguascalientes (UTA), 2017- 2022
+- 👀 I’m interested in photography, traveling, technology, movies, art, horror, literature, cute stuff and more...
+- 👩‍🎓 Studies: Bachelor of Engineering, Universidad Tecnológica de Aguascalientes (UTA), 2017- 2022
 - 🌱 I’m currently learning .NET Core, Node.js and React Native
 - 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 - 📫 Reach out to me: michaelrdz.me@gmail.com
 
 #### Find me at:
 
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png)](https://linktr.ee/michaelrdz "linkedin.com/in/michael-rdz/")
+[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png)](https://linktr.ee/michaelrdz "linkedin.com/in/michael-rdz/") / 
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png)](https://www.linkedin.com/in/michael-rdz/recent-activity/ "linkedin.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_twitter.png)](https://twitter.com/Michaelrdz_me "twitter.com/Michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_facebook2.png)](https://www.facebook.com/Michaelrdz.me/ "facebook.com/michaelrdz_me")
