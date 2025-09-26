@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/michael-rdz/recent-activity/" target="_blank" rel="noreferrer" style="text-decoration: none">
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/>
 </a>
-<a href="https://www.instagram.com/michaelrdz_me/" target="_blank" rel="noreferrer" style="text-decoration: none">
+<a href="https://www.instagram.com/michaelrdz_/" target="_blank" rel="noreferrer" style="text-decoration: none">
   <img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png"/>
 </a>
 <a href="https://www.pinterest.com.mx/michaelrdz_me/" target="_blank" rel="noreferrer" style="text-decoration: none">
