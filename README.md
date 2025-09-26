@@ -1,4 +1,4 @@
-## Hi, I’m Michael (Mich) Rodríguez
+## 👋 Hi, I’m Michael (Mich) Rodríguez
 ### 👩‍💻 Front-end developer + UX/UI
 ### ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) ✨ [mockingbird.mx](https://www.mockingbird.mx)
 ### 📍 Aguascalientes, Mexico
@@ -6,54 +6,51 @@
 -------------
 <!--- 👩‍🎤 Pronouns: they/them/she/her -->
 - 💻 Over 13 years of professional experience in IT
-- 👩 Currently work as the head of the web design department
+- 👩 Currently work as the head of the Web Design Department
 - 👩‍🎓 Bachelor of Engineering, Universidad Tecnológica de Aguascalientes (UTA), 2017- 2022
 - 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 #### Find me at:
 
-[![]()]( "linkedin.com/in/michael-rdz/") 
-
-<a href="https://linktr.ee/michaelrdz">
-  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png"/>
+<a href="https://linktr.ee/michaelrdz" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img width="50" height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png"/>
 </a>
-<a href="https://www.linkedin.com/in/michael-rdz/recent-activity/">
-  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png"/>
+<a href="https://www.linkedin.com/in/michael-rdz/recent-activity/" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/>
 </a>
-<a href="https://www.instagram.com/michaelrdz_me/">
-  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_instagram.png"/>
+<a href="https://www.instagram.com/michaelrdz_me/" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png"/>
 </a>
-<a href="https://www.pinterest.com.mx/michaelrdz_me/">
-  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_pinterest.png"/>
+<a href="https://www.pinterest.com.mx/michaelrdz_me/" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png"/>
 </a>
-<a href="https://x.com/Michaelrdz_me">
-  <img width="50" height="50" src="https://images.freeimages.com/image/large-previews/f35/x-twitter-logo-on-black-circle-5694247.png"/>
+<a href="https://x.com/Michaelrdz_me" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/X-Logo-Round-Color.png"/>
 </a>
-<a href="https://michaelrodz.tumblr.com/">
+<a href="https://michaelrodz.tumblr.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
   <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/256/4103/4103010.png"/>
 </a>
-<a href="https://www.tiktok.com/@michaelrdz_me">
+<a href="https://www.tiktok.com/@michaelrdz_me" target="_blank" rel="noreferrer" style="text-decoration: none">
   <img width="50" height="50" src="https://images.icon-icons.com/2992/PNG/512/tiktok_logo_icon_187324.png"/>
 </a>
-<a href="https://gitlab.com/michaelrdz.me">
-  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_gitlab.png"/>
+<a href="https://gitlab.com/michaelrdz.me" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img width="50" height="50" src="https://gitlab.com/uploads/-/system/project/avatar/7905431/gitlab-discovery-logo.png"/>
 </a>
 
 #### Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                    alt="javascript" width="40" height="40" /> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://wildcardcorp.com/image-repository/javascript-icon.png/@@images/image.png" alt="javascript" width="40" height="40" />
+</a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img
                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="tailwind" width="40" height="40" /> </a>
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
-                    src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="tailwind" width="40" height="40" /> </a>
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="tailwind" width="40" height="40" /> </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img
                     src="https://www.ispirer.net/images/asp.net.logo.png" alt="tailwind" width="40" height="40" /> </a>
 <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img
@@ -62,7 +59,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
                             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="tailwind" width="40" height="40" /> </a>
  <a href="https://www.microsoft.com/es-mx/sql-server" target="_blank" rel="noreferrer"> <img
-                    src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="tailwind" width="40"
+                    src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="tailwind" width="40"
                     height="40" /> </a>
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -131,6 +128,6 @@
 
 #### More things about me:
 
-🇲🇽 🏳️‍🌈 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎬 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️
+🇲🇽 🎃 🖖 🐱 🍂 🍄 📖 🦋 🏞 🍵 🐸 👗 🍷 👻 🍨 🎞 🧛 🧩 🐺 🎮 🚲 🗺 ⛩ 📷 🏺 🔮 🔭💀 🧸 💅 🍝 🎒 🧋 🦝 ⚛️ 💻 📱 ♻️ 🐇 🧥 🎸 🎷 🥑 🌮  🍕 🎀 🍓 🍰 🌵 🎨 🎭 🎠 🛸 🦄 💭 ⚔️
 
 <img alt="cooding girl" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="280px" />
