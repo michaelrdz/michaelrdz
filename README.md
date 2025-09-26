@@ -5,20 +5,38 @@
 <!-- Eduardo Michael Rodríguez Medina -->
 -------------
 <!--- 👩‍🎤 Pronouns: they/them/she/her -->
-- 👀 I’m interested in photography, traveling, art, movies, spooky things, literature, cute stuff and more...
+- 💻 Over 13 years of professional experience in IT
+- 👩 Currently work as the head of the web design department
 - 👩‍🎓 Bachelor of Engineering, Universidad Tecnológica de Aguascalientes (UTA), 2017- 2022
 - 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 #### Find me at:
 
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png)](https://linktr.ee/michaelrdz "linkedin.com/in/michael-rdz/") 
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png)](https://www.linkedin.com/in/michael-rdz/recent-activity/ "linkedin.com/michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_instagram.png)](https://www.instagram.com/michaelrdz_me/ "instagram.com/michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_pinterest.png)](https://www.pinterest.com.mx/michaelrdz_me/ "pinterest.com.mx/michaelrdz_me")
-[![](https://images.icon-icons.com/2992/PNG/512/tiktok_logo_icon_187324.png)](https://www.tiktok.com/@michaelrdz_me "tiktok.com/@michaelrdz_me")
-[![](https://cdn-icons-png.flaticon.com/256/4103/4103010.png)](https://michaelrodz.tumblr.com/ "michaelrodz.tumblr.com")
+[![]()]( "linkedin.com/in/michael-rdz/") 
 
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_twitter.png)](https://x.com/Michaelrdz_me "x.com/Michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_gitlab.png)](https://gitlab.com/michaelrdz.me "gitlab.com/michaelrdz.me")
+<a href="https://linktr.ee/michaelrdz">
+  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png"/>
+</a>
+<a href="https://www.linkedin.com/in/michael-rdz/recent-activity/">
+  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png"/>
+</a>
+<a href="https://www.instagram.com/michaelrdz_me/">
+  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_instagram.png"/>
+</a>
+<a href="https://www.pinterest.com.mx/michaelrdz_me/">
+  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_pinterest.png"/>
+</a>
+<a href="https://x.com/Michaelrdz_me">
+  <img width="50" height="50" src="https://images.freeimages.com/image/large-previews/f35/x-twitter-logo-on-black-circle-5694247.png"/>
+</a>
+<a href="https://michaelrodz.tumblr.com/">
+  <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/256/4103/4103010.png"/>
+</a>
+<a href="https://www.tiktok.com/@michaelrdz_me">
+  <img width="50" height="50" src="https://images.icon-icons.com/2992/PNG/512/tiktok_logo_icon_187324.png"/>
+</a>
+<a href="https://gitlab.com/michaelrdz.me">
+  <img width="50" height="50" src="http://ags.gob.mx/sitio_imgs/oticons/icon_42_gitlab.png"/>
+</a>
 
 #### Languages and Tools:
 
