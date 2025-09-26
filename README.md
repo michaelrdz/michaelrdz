@@ -1,5 +1,5 @@
-## Hi, I’m Michael Rodríguez
-### 👩‍💻 Front-end developer
+## Hi, I’m Michael (Mich) Rodríguez
+### 👩‍💻 Front-end developer + UX/UI
 ### ⚔️ Working at [ags.gob.mx](https://www.ags.gob.mx) ✨ [mockingbird.mx](https://www.mockingbird.mx)
 ### 📍 Aguascalientes, Mexico
 <!-- Eduardo Michael Rodríguez Medina -->
@@ -7,16 +7,17 @@
 <!--- 👩‍🎤 Pronouns: they/them/she/her -->
 - 👀 I’m interested in photography, traveling, art, movies, spooky things, literature, cute stuff and more...
 - 👩‍🎓 Bachelor of Engineering, Universidad Tecnológica de Aguascalientes (UTA), 2017- 2022
-- 🌱 I’m currently learning .NET Core, Node.js and React Native
 - 🎓 Certificates and courses: <a href="https://drive.google.com/drive/folders/1asKgEIXCUbXyZd6GECVSH6qa0g56yWun?usp=sharing" target="_blank" rel="noreferrer">View all</a>
 #### Find me at:
 
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linktree.png)](https://linktr.ee/michaelrdz "linkedin.com/in/michael-rdz/") 
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_linkedin.png)](https://www.linkedin.com/in/michael-rdz/recent-activity/ "linkedin.com/michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_twitter.png)](https://twitter.com/Michaelrdz_me "twitter.com/Michaelrdz_me")
-[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_facebook2.png)](https://www.facebook.com/Michaelrdz.me/ "facebook.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_instagram.png)](https://www.instagram.com/michaelrdz_me/ "instagram.com/michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_pinterest.png)](https://www.pinterest.com.mx/michaelrdz_me/ "pinterest.com.mx/michaelrdz_me")
+[![](https://images.icon-icons.com/2992/PNG/512/tiktok_logo_icon_187324.png)](https://www.tiktok.com/@michaelrdz_me "tiktok.com/@michaelrdz_me")
+[![](https://cdn-icons-png.flaticon.com/256/4103/4103010.png)](https://michaelrodz.tumblr.com/ "michaelrodz.tumblr.com")
+
+[![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_twitter.png)](https://x.com/Michaelrdz_me "x.com/Michaelrdz_me")
 [![](http://ags.gob.mx/sitio_imgs/oticons/icon_42_gitlab.png)](https://gitlab.com/michaelrdz.me "gitlab.com/michaelrdz.me")
 
 #### Languages and Tools:
